@@ -212,3 +212,8 @@ Add the subdomain hubot should connect to. If you web URL looks like
 
 You may want to get comfortable with `heroku logs` and `heroku restart` if
 you're having issues.
+
+
+## todo
+
+1. should not hard-code "hubot" in the repeat script. Because its name could be something else.
