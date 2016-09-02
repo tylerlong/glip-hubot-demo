@@ -20,18 +20,18 @@ upon have been set.
 
 You can start glip-hubot-demo locally by running:
 
-    % bin/hubot
+    % bin/hubot -a glip -n hubot
 
 You'll see some start up output and a prompt:
 
     [Sat Feb 28 2015 12:38:27 GMT+0000 (GMT)] INFO Using default redis on localhost:6379
-    glip-hubot-demo>
+    hubot>
 
-Then you can interact with glip-hubot-demo by typing `glip-hubot-demo help`.
+Then you can interact with glip-hubot-demo by typing `hubot help`.
 
-    glip-hubot-demo> glip-hubot-demo help
-    glip-hubot-demo animate me <query> - The same thing as `image me`, except adds [snip]
-    glip-hubot-demo help - Displays all of the help commands that glip-hubot-demo knows about.
+    hubot> hubot help
+    hubot animate me <query> - The same thing as `image me`, except adds [snip]
+    hubot help - Displays all of the help commands that glip-hubot-demo knows about.
     ...
 
 ### Configuration
