@@ -12,7 +12,8 @@
     "hubot-maps": "0.0.2",
     "hubot-rules": "^0.1.1",
     "hubot-scripts-stock": "^0.2.1",
-    "hubot-sushiyuki": "0.0.11"
+    "hubot-sushiyuki": "0.0.11",
+    "hubot-zendesk": "github:wjbeckett/hubot-zendesk"
   },
   "engines": {
     "node": "0.10.x"
