@@ -1,6 +1,6 @@
 # glip-hubot-demo
 
-glip-hubot-demo is a chat bot built on the [Hubot][hubot] framework with [hubot-glip](https://github.com/tylerlong/hubot-glip) adapter.
+glip-hubot-demo is a chat bot built on the [Hubot](http://hubot.github.com/) framework with [hubot-glip](https://github.com/tylerlong/hubot-glip) adapter.
 
 
 ## Running glip-hubot-demo
